@@ -3,6 +3,9 @@
 * "scikit-learn" [more](http://scikit-learn.org)
 ```machine learning in Python``` 
 
+* "Weka" [more](http://www.cs.waikato.ac.nz/ml/weka/)
+```Data Mining Software in Java```
+
 * "h2o" [more](https://github.com/h2oai/h2o-2)
 ```fast statistical, machine learning & math runtime for bigdata```
 
